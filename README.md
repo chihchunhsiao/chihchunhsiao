@@ -46,11 +46,11 @@ Bridging hands-on industrial R&D, patent-backed innovation, and modern software 
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chihchunhsiao&show_icons=true&theme=radical" alt="Chih-Chun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihchunhsiao&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chihchunhsiao&show_icons=true&theme=radical" alt="Chih-Chun's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chihchunhsiao&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
