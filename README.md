@@ -40,7 +40,7 @@ Bridging hands-on industrial R&D, patent-backed innovation, and modern software 
 | :--- | :--- | :--- |
 | **[cse212-hw](https://github.com/chihchunhsiao/cse212-hw)** | Practical implementations of core data structures, algorithms, and complexity analysis. | `C#` `.NET` |
 | **[ces210-hw](https://github.com/chihchunhsiao/ces210-hw)** | Object-oriented programming (OOP) principles, design patterns, and C# console applications. | `C#` `.NET` |
-| **[wdd231](https://github.com/chihchunhsiao/wdd231)** |<br>👉 **[Live Demo](https://chihchunhsiao.github.io/wdd231/final/index.html)** | **Chun's Wealth Journal** — A responsive personal finance platform featuring market insights, WebP adaptive imagery, and modern CSS/DOM manipulation. | `JavaScript` `CSS` `HTML` |
+| [wdd231](https://github.com/chihchunhsiao/wdd231)<br>👉 [Live Demo](https://chihchunhsiao.github.io/wdd231/final/index.html) | Chun's Wealth Journal — A responsive personal finance platform featuring market insights, WebP adaptive imagery, and modern CSS/DOM manipulation. | `JavaScript` `CSS` `HTML` |
 | **[cse270-teton](https://github.com/chihchunhsiao/cse270-teton)** | Software testing and quality engineering practices, including test automation and verification. | `HTML` `Testing` |
 | **[wdd131](https://github.com/chihchunhsiao/wdd131)** | Web development fundamentals focusing on semantic layout structure and accessible design. | `HTML` `CSS` |
 
