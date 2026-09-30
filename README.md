@@ -34,7 +34,7 @@ Bridging hands-on industrial R&D, patent-backed innovation, and modern software 
 
 ---
 
-### 🚀 Featured Repositories & Projects
+### 🚀 Featured Repositories
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -44,6 +44,13 @@ Bridging hands-on industrial R&D, patent-backed innovation, and modern software 
 | **[cse270-teton](https://github.com/chihchunhsiao/cse270-teton)** | Software testing and quality engineering practices, including test automation and verification. | `HTML` `Testing` |
 | **[wdd131](https://github.com/chihchunhsiao/wdd131)** | Web development fundamentals focusing on semantic layout structure and accessible design. | `HTML` `CSS` |
 
+```
+### 🌟 Featured Projects
+
+- **[Chun's Wealth Journal](https://chihchunhsiao.github.io/wdd231/final/index.html)**  
+  A modern, responsive personal finance web app built with semantic HTML5, CSS3, and responsive image optimizations.  
+  [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-brightgreen)](https://chihchunhsiao.github.io/wdd231/final/index.html)
+  [![GitHub](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/chihchunhsiao/<repo-name>)
 ---
 
 ## 📊 GitHub Statistics
